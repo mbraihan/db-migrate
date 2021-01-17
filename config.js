@@ -9,7 +9,8 @@ module.exports = {
         "RoleMenu",
         "snapTable_dump",
         "snapTable_report",
-        "SocialData"
+        "SocialData",
+        "PartnerContainerTypes"
     ],
     remapKeys: false // Set this to false if you want to leave table keys as they are, set to true to remap them to MongoDB ObjectId's.
 };
