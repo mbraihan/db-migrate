@@ -122,7 +122,7 @@ async function main () {
 							user	: 'sa'	,
 							password: 'MaxiS2019pAy2017'	,
 							server	: '182.48.80.230'	,
-							database: 'velocity_0_3_0_1_balancereports'	,
+							database: 'velocity_0_3_0_1_20191229'	,
 							requestTimeout		: 90000	,
 							connectionTimeou	: 90000	,
 							options	: {encrypt: false}
