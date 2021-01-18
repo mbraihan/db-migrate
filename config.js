@@ -2,7 +2,7 @@ module.exports = {
 
     sqlConnectionString: "<connection-string-for-your-sql-database-goes-here>", // Insert your connection string here.
     mongoConnectionString: "mongodb://maxis-admin:Nopass%401234@m148.maxismongo.com:27017/?authSource=admin&replicaSet=rs0&readPreference=primary&ssl=true", // This puts the resulting database in MongoDB running on your local PC.
-    targetDatabaseName: "visitor_manager_visitor_0101", // Specify the MongoDB database where the data will end up.
+    targetDatabaseName: "velocity_0_3_0_1_balancereports", // Specify the MongoDB database where the data will end up.
     skip: [
         "processLog",
         "userTerritory",
