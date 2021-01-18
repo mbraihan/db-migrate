@@ -122,7 +122,7 @@ async function main () {
 							user	: 'sa'	,
 							password: 'MaxiS2019pAy2017'	,
 							server	: '182.48.80.230'	,
-							database: 'test_lab_sadhan_20201220'	,
+							database: 'test_ekyc_demo_20201227'	,
 							requestTimeout		: 90000	,
 							connectionTimeou	: 90000	,
 							options	: {encrypt: false}
