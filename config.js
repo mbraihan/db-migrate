@@ -11,7 +11,8 @@ module.exports = {
         "snapTable_dump",
         "snapTable_report",
         "SocialData",
-        "PartnerContainerTypes"
+        "PartnerContainerTypes",
+        "Numbers"
     ],
     remapKeys: false // Set this to false if you want to leave table keys as they are, set to true to remap them to MongoDB ObjectId's.
 };
